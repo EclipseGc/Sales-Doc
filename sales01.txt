@@ -1,1 +1,9 @@
 This is some example text to get us started.
+
+Example Feature
+  User stories:
+    As an administrative user I can do X
+    As a visitor of the site I can do Y
+    
+  Acceptance Criteria:
+    The forms must actually work.
